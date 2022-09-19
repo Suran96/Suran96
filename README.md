@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=정현이의%20깃허브fadeIn 1.2s&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=정현이의%20깃허브&animation=fadeIn&fontSize=90)
 
 
 # AI Control
