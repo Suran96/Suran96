@@ -70,7 +70,8 @@
   정지 로스를 최소하여 회사에 이익을 극대화 할수 있습니다.
  
  
-Data Type Conversion
+ 9/20일 과제
+ Data Type Conversion
 ---
 | sr.No. |  Function&Description |
 | :-------------: | :---------------: |
