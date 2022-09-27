@@ -1,5 +1,6 @@
 9/20 project
-Data Type Conversion
+
+| Data Type Conversion |
 ---
 | sr.No. |  Function&Description |
 | :-------------: | :---------------: |
