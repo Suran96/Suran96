@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=정현이의%20깃허브&animation=blink&fontSize=90)
 
 
@@ -68,3 +69,4 @@
   동일화 하여 보여줌으로써 제품의 오류나 트러블을 공정을 직접 확인 하지않고 모니터 화면을 통해
   쉽게 확인 가능하고, 이러한 대이터를 활용하여 미리 고장을 예측하여 예방정비를 함으로써
   정지 로스를 최소하여 회사에 이익을 극대화 할수 있습니다.
+</div>
