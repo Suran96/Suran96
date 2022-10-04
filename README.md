@@ -5,7 +5,7 @@
 ### 나의 첫번째 마크다운 파일입니다.
 ### vim extension test
 
-###[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuran96&count_bg=%230ED831&title_bg=%2319288E&icon=maserati.svg&icon_color=%23AD2222&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuran96&count_bg=%230ED831&title_bg=%2319288E&icon=maserati.svg&icon_color=%23AD2222&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 
 > ##  **학과: 스마트팩토리**
