@@ -1,7 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=정현이의%20깃허브&animation=blink&fontSize=90)
 
-
+<div align="center">
 # AI Control
 ### 나의 첫번째 마크다운 파일입니다.
 ### vim extension test
