@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=정현이의%20깃허브&animation=blink&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungHyeon%20Lee&fontSize=90)
 
-# AI Control
+<img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suran96&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuran96&count_bg=%230ED831&title_bg=%2319288E&icon=maserati.svg&icon_color=%23AD2222&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
