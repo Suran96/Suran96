@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungHyeon%20Lee&fontSize=90)
 
 <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
@@ -67,4 +69,26 @@
 동일화하여 보여줌으로써 제품의 오류나 말썽을 공정을 직접 확인 하지 않고 모니터 화면을 통해
 쉽게 확인할 수 있고, 이러한 데이터를 활용하여 미리 고장을 예측하여 예방정비를 함으로써
 정지 로스를 최소화하여 회사에 이익을 극대화 할 수 있습니다.
+# 9/20 project
 
+| Data Type Conversion |
+| sr.No. |  Function&Description |
+| :-------------: | :---------------: |
+| int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. |
+| float(x) | x를 부동 소수점 숫자로 변환합니다. |
+| comples(real [,imag]) | 복소수를 작성하다. |
+| str(x) | 개체 x를 문자열 표현으로 변환합니다. | 
+| repr(x) | 개체 x를 식 문자열로 변환합니다. |
+| eval(str) | 개체 x를 표현식 문자열로 변환합니다. |
+| tuple(s) | s를 튜플로 변환합니다 |
+| list(s) | s를 목록으로 변환합니다. |
+| set(s) | s를 집합으로 변환합니다. |
+| dict(d) | 사전을 만듭니다. d는 (키, 값) 튜플의 시퀀스여야 합니다. |
+|	frozenset(s) | s를 고정 집합으로 변환합니다. |
+| chr(x) | 정수를 문자로 변환합니다. |
+|	unichr(x) | 정수를 유니코드 문자로 변환합니다. |
+| ord(x) | 단일 문자를 정수 값으로 변환합니다. |
+| hex(x) | 정수를 16진수 문자열로 변환합니다. |
+| oct(x) | 정수를 8진수 문자열로 변환합니다. |
+
+ </div>
