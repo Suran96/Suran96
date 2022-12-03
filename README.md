@@ -91,4 +91,8 @@
 | hex(x) | 정수를 16진수 문자열로 변환합니다. |
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
+ #### 기말AI프로젝트 (차량과번호판 인식)
+
+<img src="https://github.com/Suran96/Suran96/issues/2#issue-1474040259.gif"/>
+ 
  </div>
