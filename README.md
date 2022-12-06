@@ -93,6 +93,6 @@
 
  #### 기말AI프로젝트 (차량과번호판 인식)
 
-<img src="https://github.com/Suran96/Suran96/issues/2#issue-1474040259.gif"/>
+<img src="https://user-images.githubusercontent.com/112458975/205860834-11c01c06-e073-4be6-a7b8-3abc92e001f5.gif"/>
  
 </div>
