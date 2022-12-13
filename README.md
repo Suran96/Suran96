@@ -97,7 +97,7 @@
 
  #### 주차 게이트 소스코드 입니다.  
  
-<img src="https://user-images.githubusercontent.com/112458975/205861715-09ccdb58-7b9c-41ba-b980-46f3850765f4.JPG"/>
+<img src="https://user-images.githubusercontent.com/112458975/207226915-41184dff-edad-4e48-91b4-1ca6daf832b1.png"/>
 <img src="https://user-images.githubusercontent.com/112458975/205861726-4867182d-8615-4dc3-90e2-b966091f89ac.JPG"/>
  
 </div>
