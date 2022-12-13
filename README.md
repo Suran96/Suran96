@@ -98,6 +98,11 @@
  #### 주차 게이트 소스코드 입니다.  
  
 <img src="https://user-images.githubusercontent.com/112458975/207226915-41184dff-edad-4e48-91b4-1ca6daf832b1.png"/>
-<img src="https://user-images.githubusercontent.com/112458975/205861726-4867182d-8615-4dc3-90e2-b966091f89ac.JPG"/>
- 
-</div>
+<img src="https://user-images.githubusercontent.com/112458975/207226923-1b0d0638-9329-4d2d-b52e-ba8cbe08bbb8.png"/>
+<img src="https://user-images.githubusercontent.com/112458975/207226933-4725fbea-d33d-4a99-89b5-62b39e1828fa.png"/>
+<img src="https://user-images.githubusercontent.com/112458975/207226940-1a914aa5-043e-4657-9299-30c95ec04413.png"/>
+<img src="https://user-images.githubusercontent.com/112458975/207226943-dcbbbee2-6e0e-4b7a-bdca-4b517272ef52.png"/> 
+<img src="https://user-images.githubusercontent.com/112458975/207226947-92f53fe5-2ae1-4220-8632-f84d7bd5b33e.png"/> 
+<img src="https://user-images.githubusercontent.com/112458975/207226954-6a0437c8-cc8e-4868-89fc-5697643ca762.png"/> 
+
+ </div>
