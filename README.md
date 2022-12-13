@@ -95,7 +95,7 @@
 
 <img src="https://user-images.githubusercontent.com/112458975/205860834-11c01c06-e073-4be6-a7b8-3abc92e001f5.gif"/>
 
- #### 주차 게이트 소스코드 입니다.  
+ #### 주차 게이트 발표자료 입니다.  
  
 <img src="https://user-images.githubusercontent.com/112458975/207226915-41184dff-edad-4e48-91b4-1ca6daf832b1.png"/>
 <img src="https://user-images.githubusercontent.com/112458975/207226923-1b0d0638-9329-4d2d-b52e-ba8cbe08bbb8.png"/>
